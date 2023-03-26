@@ -1,3 +1,4 @@
 HI, I am testing branch feature
+<<<<<<< HEAD
 inside master branch
 Inside feature-1 branch
